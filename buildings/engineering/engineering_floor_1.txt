@@ -1,0 +1,187 @@
+Floor:1
+A/Main Enterance/Front Desk/PRIMARY/958/380
+[
+{'mac': '58:97:1E:57:61:50', 'minSig': '53', 'minQual': '53', 'maxQual': '53', 'maxSig': '59', 'avgSig': '54.62', 'qualAvg': '53.0'}
+{'mac': '58:97:1E:57:61:52', 'minSig': '51', 'minQual': '59', 'maxQual': '59', 'maxSig': '55', 'avgSig': '52.88', 'qualAvg': '59.0'}
+{'mac': '58:97:1E:57:6A:72', 'minSig': '57', 'minQual': '53', 'maxQual': '53', 'maxSig': '57', 'avgSig': '57.0', 'qualAvg': '53.0'}
+{'mac': '58:97:1E:57:6A:71', 'minSig': '68', 'minQual': '36', 'maxQual': '36', 'maxSig': '75', 'avgSig': '73.0', 'qualAvg': '36.0'}
+{'mac': '58:97:1E:57:61:51', 'minSig': '50', 'minQual': '60', 'maxQual': '60', 'maxSig': '59', 'avgSig': '53.56', 'qualAvg': '60.0'}
+{'mac': '58:97:1E:57:61:5D', 'minSig': '53', 'minQual': '57', 'maxQual': '57', 'maxSig': '68', 'avgSig': '62.67', 'qualAvg': '57.0'}
+{'mac': '58:97:1E:57:6A:70', 'minSig': '72', 'minQual': '38', 'maxQual': '38', 'maxSig': '72', 'avgSig': '72.0', 'qualAvg': '38.0'}
+{'mac': '58:97:1E:56:A9:D0', 'minSig': '57', 'minQual': '47', 'maxQual': '47', 'maxSig': '64', 'avgSig': '61.11', 'qualAvg': '47.0'}
+{'mac': '58:97:1E:56:A9:D1', 'minSig': '57', 'minQual': '45', 'maxQual': '45', 'maxSig': '65', 'avgSig': '60.11', 'qualAvg': '45.0'}
+{'mac': '1C:E6:C7:F0:FD:FF', 'minSig': '70', 'minQual': '35', 'maxQual': '35', 'maxSig': '78', 'avgSig': '73.44', 'qualAvg': '35.0'}
+{'mac': '1C:E6:C7:F0:FD:FD', 'minSig': '70', 'minQual': '35', 'maxQual': '35', 'maxSig': '78', 'avgSig': '73.44', 'qualAvg': '35.0'}
+{'mac': '1C:E6:C7:F0:FD:FE', 'minSig': '70', 'minQual': '35', 'maxQual': '35', 'maxSig': '79', 'avgSig': '73.56', 'qualAvg': '35.0'}
+{'mac': '1C:E6:C7:F0:C3:3F', 'minSig': '85', 'minQual': '25', 'maxQual': '25', 'maxSig': '89', 'avgSig': '86.33', 'qualAvg': '25.0'}
+{'mac': '1C:E6:C7:F0:C3:3D', 'minSig': '87', 'minQual': '23', 'maxQual': '23', 'maxSig': '89', 'avgSig': '88.0', 'qualAvg': '23.0'}
+{'mac': '1C:E6:C7:F0:C3:3E', 'minSig': '87', 'minQual': '23', 'maxQual': '23', 'maxSig': '90', 'avgSig': '88.22', 'qualAvg': '23.0'}
+{'mac': '1C:E6:C7:F0:EB:AF', 'minSig': '75', 'minQual': '32', 'maxQual': '32', 'maxSig': '79', 'avgSig': '77.89', 'qualAvg': '32.0'}
+{'mac': '1C:E6:C7:F0:EB:AD', 'minSig': '76', 'minQual': '32', 'maxQual': '32', 'maxSig': '79', 'avgSig': '78.0', 'qualAvg': '32.0'}
+{'mac': '1C:E6:C7:F0:EB:AE', 'minSig': '75', 'minQual': '32', 'maxQual': '32', 'maxSig': '80', 'avgSig': '78.0', 'qualAvg': '32.0'}
+{'mac': '58:97:1E:57:61:5F', 'minSig': '54', 'minQual': '56', 'maxQual': '56', 'maxSig': '68', 'avgSig': '63.11', 'qualAvg': '56.0'}
+{'mac': '58:97:1E:57:61:5E', 'minSig': '62', 'minQual': '45', 'maxQual': '45', 'maxSig': '66', 'avgSig': '64.11', 'qualAvg': '45.0'}
+{'mac': '58:97:1E:57:6A:7F', 'minSig': '74', 'minQual': '36', 'maxQual': '36', 'maxSig': '79', 'avgSig': '76.11', 'qualAvg': '36.0'}
+{'mac': '58:97:1E:57:6A:7D', 'minSig': '74', 'minQual': '36', 'maxQual': '36', 'maxSig': '84', 'avgSig': '78.44', 'qualAvg': '36.0'}
+{'mac': '58:97:1E:57:6A:7E', 'minSig': '75', 'minQual': '35', 'maxQual': '35', 'maxSig': '78', 'avgSig': '76.22', 'qualAvg': '35.0'}
+{'mac': '58:97:1E:56:A9:DF', 'minSig': '62', 'minQual': '44', 'maxQual': '44', 'maxSig': '72', 'avgSig': '66.33', 'qualAvg': '44.0'}
+{'mac': '58:97:1E:56:A9:DD', 'minSig': '61', 'minQual': '45', 'maxQual': '45', 'maxSig': '72', 'avgSig': '65.78', 'qualAvg': '45.0'}
+{'mac': '58:97:1E:56:A9:DE', 'minSig': '61', 'minQual': '44', 'maxQual': '44', 'maxSig': '72', 'avgSig': '66.22', 'qualAvg': '44.0'}
+{'mac': '1C:E6:C7:F0:FD:F0', 'minSig': '65', 'minQual': '40', 'maxQual': '40', 'maxSig': '70', 'avgSig': '66.78', 'qualAvg': '40.0'}
+{'mac': '30:E1:71:A0:9B:4D', 'minSig': '67', 'minQual': '31', 'maxQual': '31', 'maxSig': '79', 'avgSig': '73.56', 'qualAvg': '31.0'}
+{'mac': '58:97:1E:56:A9:D2', 'minSig': '57', 'minQual': '44', 'maxQual': '44', 'maxSig': '66', 'avgSig': '60.89', 'qualAvg': '44.0'}
+{'mac': '1C:E6:C7:F0:EB:A1', 'minSig': '63', 'minQual': '41', 'maxQual': '41', 'maxSig': '71', 'avgSig': '66.44', 'qualAvg': '41.0'}
+{'mac': '58:97:1E:57:0B:3E', 'minSig': '84', 'minQual': '26', 'maxQual': '26', 'maxSig': '85', 'avgSig': '84.56', 'qualAvg': '26.0'}
+{'mac': '00:78:88:CD:06:6D', 'minSig': '83', 'minQual': '26', 'maxQual': '26', 'maxSig': '86', 'avgSig': '84.33', 'qualAvg': '26.0'}
+{'mac': '00:78:88:CD:06:6E', 'minSig': '83', 'minQual': '27', 'maxQual': '27', 'maxSig': '87', 'avgSig': '84.67', 'qualAvg': '27.0'}
+{'mac': 'FA:DA:0C:7E:CD:D1', 'minSig': '66', 'minQual': '29', 'maxQual': '29', 'maxSig': '81', 'avgSig': '75.11', 'qualAvg': '29.0'}
+{'mac': '1C:E6:C7:F0:C3:31', 'minSig': '78', 'minQual': '32', 'maxQual': '32', 'maxSig': '78', 'avgSig': '78.0', 'qualAvg': '32.0'}
+{'mac': '58:97:1E:56:B0:41', 'minSig': '74', 'minQual': '36', 'maxQual': '36', 'maxSig': '74', 'avgSig': '74.0', 'qualAvg': '36.0'}
+{'mac': '00:78:88:CD:06:60', 'minSig': '75', 'minQual': '35', 'maxQual': '35', 'maxSig': '75', 'avgSig': '75.0', 'qualAvg': '35.0'}
+{'mac': '1C:E6:C7:E1:3B:62', 'minSig': '81', 'minQual': '29', 'maxQual': '29', 'maxSig': '81', 'avgSig': '81.0', 'qualAvg': '29.0'}
+{'mac': '1C:E6:C7:E1:3B:61', 'minSig': '81', 'minQual': '29', 'maxQual': '29', 'maxSig': '81', 'avgSig': '81.0', 'qualAvg': '29.0'}
+{'mac': '1C:E6:C7:F0:EB:A2', 'minSig': '63', 'minQual': '45', 'maxQual': '45', 'maxSig': '71', 'avgSig': '66.44', 'qualAvg': '45.0'}
+{'mac': '58:97:1E:56:B0:4E', 'minSig': '85', 'minQual': '25', 'maxQual': '25', 'maxSig': '85', 'avgSig': '85.0', 'qualAvg': '25.0'}
+{'mac': '58:97:1E:56:D5:EE', 'minSig': '81', 'minQual': '28', 'maxQual': '28', 'maxSig': '83', 'avgSig': '81.75', 'qualAvg': '28.0'}
+{'mac': '1C:E6:C7:F0:FD:F1', 'minSig': '65', 'minQual': '42', 'maxQual': '42', 'maxSig': '68', 'avgSig': '66.33', 'qualAvg': '42.0'}
+{'mac': '58:97:1E:56:D5:E0', 'minSig': '71', 'minQual': '38', 'maxQual': '38', 'maxSig': '72', 'avgSig': '71.22', 'qualAvg': '38.0'}
+{'mac': '58:97:1E:56:D5:E2', 'minSig': '72', 'minQual': '38', 'maxQual': '38', 'maxSig': '72', 'avgSig': '72.0', 'qualAvg': '38.0'}
+{'mac': '58:97:1E:56:D5:E1', 'minSig': '70', 'minQual': '37', 'maxQual': '37', 'maxSig': '73', 'avgSig': '70.78', 'qualAvg': '37.0'}
+{'mac': '00:78:88:CD:06:6F', 'minSig': '83', 'minQual': '27', 'maxQual': '27', 'maxSig': '86', 'avgSig': '84.56', 'qualAvg': '27.0'}
+{'mac': '58:97:1E:56:B0:4F', 'minSig': '85', 'minQual': '25', 'maxQual': '25', 'maxSig': '85', 'avgSig': '85.0', 'qualAvg': '25.0'}
+{'mac': '58:97:1E:56:B0:4D', 'minSig': '85', 'minQual': '25', 'maxQual': '25', 'maxSig': '85', 'avgSig': '85.0', 'qualAvg': '25.0'}
+{'mac': '58:97:1E:56:D5:EF', 'minSig': '80', 'minQual': '29', 'maxQual': '29', 'maxSig': '83', 'avgSig': '81.67', 'qualAvg': '29.0'}
+{'mac': '58:97:1E:56:D5:ED', 'minSig': '80', 'minQual': '28', 'maxQual': '28', 'maxSig': '85', 'avgSig': '82.11', 'qualAvg': '28.0'}
+{'mac': '58:97:1E:56:B0:42', 'minSig': '75', 'minQual': '35', 'maxQual': '35', 'maxSig': '75', 'avgSig': '75.0', 'qualAvg': '35.0'}
+{'mac': '1C:E6:C7:F0:FD:F2', 'minSig': '63', 'minQual': '45', 'maxQual': '45', 'maxSig': '65', 'avgSig': '63.86', 'qualAvg': '45.0'}
+{'mac': '1C:E6:C7:F0:EB:A0', 'minSig': '63', 'minQual': '40', 'maxQual': '40', 'maxSig': '70', 'avgSig': '65.71', 'qualAvg': '40.0'}
+{'mac': '58:97:1E:57:0B:30', 'minSig': '77', 'minQual': '33', 'maxQual': '33', 'maxSig': '77', 'avgSig': '77.0', 'qualAvg': '33.0'}
+{'mac': '58:97:1E:56:A4:3D', 'minSig': '90', 'minQual': '20', 'maxQual': '20', 'maxSig': '90', 'avgSig': '90.0', 'qualAvg': '20.0'}
+{'mac': '58:97:1E:57:0B:3D', 'minSig': '84', 'minQual': '26', 'maxQual': '26', 'maxSig': '84', 'avgSig': '84.0', 'qualAvg': '26.0'}
+{'mac': '00:78:88:CD:06:61', 'minSig': '73', 'minQual': '37', 'maxQual': '37', 'maxSig': '76', 'avgSig': '73.8', 'qualAvg': '37.0'}
+{'mac': '58:97:1E:57:0B:3F', 'minSig': '80', 'minQual': '30', 'maxQual': '30', 'maxSig': '84', 'avgSig': '81.6', 'qualAvg': '30.0'}
+{'mac': '58:97:1E:56:B0:40', 'minSig': '76', 'minQual': '34', 'maxQual': '34', 'maxSig': '76', 'avgSig': '76.0', 'qualAvg': '34.0'}
+{'mac': '00:78:88:CD:06:62', 'minSig': '75', 'minQual': '35', 'maxQual': '35', 'maxSig': '75', 'avgSig': '75.0', 'qualAvg': '35.0'}
+{'mac': '1C:E6:C7:E1:3B:6F', 'minSig': '86', 'minQual': '24', 'maxQual': '24', 'maxSig': '86', 'avgSig': '86.0', 'qualAvg': '24.0'}
+{'mac': '1C:E6:C7:E1:3B:6E', 'minSig': '89', 'minQual': '21', 'maxQual': '21', 'maxSig': '89', 'avgSig': '89.0', 'qualAvg': '21.0'}
+{'mac': '1C:E6:C7:F0:D6:4F', 'minSig': '88', 'minQual': '22', 'maxQual': '22', 'maxSig': '88', 'avgSig': '88.0', 'qualAvg': '22.0'}
+{'mac': '1C:E6:C7:F0:D6:4D', 'minSig': '87', 'minQual': '23', 'maxQual': '23', 'maxSig': '87', 'avgSig': '87.0', 'qualAvg': '23.0'}
+{'mac': '1C:E6:C7:F0:D6:4E', 'minSig': '87', 'minQual': '23', 'maxQual': '23', 'maxSig': '87', 'avgSig': '87.0', 'qualAvg': '23.0'}
+]
+B/PRIMARY/761/380
+[
+]
+C/PRIMARY/538/379
+[
+]
+D/PRIMARY/324/376
+[
+]
+E/PRIMARY/162/378
+[
+]
+F/PRIMARY/764/145
+[
+]
+G/PRIMARY/964/150
+[
+]
+H/PRIMARY/961/587
+[
+]
+I/PRIMARY/769/586
+[
+]
+J/PRIMARY/965/499/TRANSITION
+[
+{'mac': '58:97:1E:57:61:50', 'minSig': '52', 'minQual': '52', 'maxQual': '52', 'maxSig': '58', 'avgSig': '55.38', 'qualAvg': '52.0'}
+{'mac': '58:97:1E:57:61:52', 'minSig': '52', 'minQual': '52', 'maxQual': '52', 'maxSig': '59', 'avgSig': '56.44', 'qualAvg': '52.0'}
+{'mac': '58:97:1E:57:6A:72', 'minSig': '56', 'minQual': '54', 'maxQual': '54', 'maxSig': '62', 'avgSig': '58.11', 'qualAvg': '54.0'}
+{'mac': '58:97:1E:57:6A:71', 'minSig': '54', 'minQual': '55', 'maxQual': '55', 'maxSig': '60', 'avgSig': '57.0', 'qualAvg': '55.0'}
+{'mac': '58:97:1E:57:61:51', 'minSig': '52', 'minQual': '53', 'maxQual': '53', 'maxSig': '60', 'avgSig': '56.56', 'qualAvg': '53.0'}
+{'mac': '58:97:1E:57:61:5D', 'minSig': '63', 'minQual': '44', 'maxQual': '44', 'maxSig': '69', 'avgSig': '66.33', 'qualAvg': '44.0'}
+{'mac': '58:97:1E:57:6A:70', 'minSig': '56', 'minQual': '54', 'maxQual': '54', 'maxSig': '62', 'avgSig': '58.11', 'qualAvg': '54.0'}
+{'mac': '58:97:1E:56:A9:D0', 'minSig': '66', 'minQual': '43', 'maxQual': '43', 'maxSig': '68', 'avgSig': '67.12', 'qualAvg': '43.0'}
+{'mac': '58:97:1E:56:A9:D1', 'minSig': '65', 'minQual': '43', 'maxQual': '43', 'maxSig': '72', 'avgSig': '67.44', 'qualAvg': '43.0'}
+{'mac': '1C:E6:C7:F0:FD:FF', 'minSig': '75', 'minQual': '32', 'maxQual': '32', 'maxSig': '79', 'avgSig': '77.12', 'qualAvg': '32.0'}
+{'mac': '1C:E6:C7:F0:FD:FD', 'minSig': '75', 'minQual': '33', 'maxQual': '33', 'maxSig': '83', 'avgSig': '77.67', 'qualAvg': '33.0'}
+{'mac': '1C:E6:C7:F0:FD:FE', 'minSig': '75', 'minQual': '32', 'maxQual': '32', 'maxSig': '79', 'avgSig': '77.25', 'qualAvg': '32.0'}
+{'mac': '1C:E6:C7:F0:C3:3F', 'minSig': '81', 'minQual': '29', 'maxQual': '29', 'maxSig': '90', 'avgSig': '84.33', 'qualAvg': '29.0'}
+{'mac': '1C:E6:C7:F0:C3:3D', 'minSig': '80', 'minQual': '29', 'maxQual': '29', 'maxSig': '87', 'avgSig': '83.44', 'qualAvg': '29.0'}
+{'mac': '1C:E6:C7:F0:C3:3E', 'minSig': '80', 'minQual': '28', 'maxQual': '28', 'maxSig': '89', 'avgSig': '84.44', 'qualAvg': '28.0'}
+{'mac': '1C:E6:C7:F0:EB:AF', 'minSig': '80', 'minQual': '23', 'maxQual': '23', 'maxSig': '87', 'avgSig': '84.0', 'qualAvg': '23.0'}
+{'mac': '1C:E6:C7:F0:EB:AD', 'minSig': '79', 'minQual': '24', 'maxQual': '24', 'maxSig': '86', 'avgSig': '83.44', 'qualAvg': '24.0'}
+{'mac': '1C:E6:C7:F0:EB:AE', 'minSig': '80', 'minQual': '23', 'maxQual': '23', 'maxSig': '87', 'avgSig': '83.89', 'qualAvg': '23.0'}
+{'mac': '58:97:1E:57:61:5F', 'minSig': '63', 'minQual': '44', 'maxQual': '44', 'maxSig': '69', 'avgSig': '66.56', 'qualAvg': '44.0'}
+{'mac': '58:97:1E:57:61:5E', 'minSig': '62', 'minQual': '44', 'maxQual': '44', 'maxSig': '69', 'avgSig': '66.33', 'qualAvg': '44.0'}
+{'mac': '58:97:1E:57:0B:3F', 'minSig': '89', 'minQual': '21', 'maxQual': '21', 'maxSig': '89', 'avgSig': '89.0', 'qualAvg': '21.0'}
+{'mac': '58:97:1E:57:6A:7F', 'minSig': '63', 'minQual': '40', 'maxQual': '40', 'maxSig': '70', 'avgSig': '68.0', 'qualAvg': '40.0'}
+{'mac': '58:97:1E:57:6A:7D', 'minSig': '62', 'minQual': '41', 'maxQual': '41', 'maxSig': '70', 'avgSig': '67.78', 'qualAvg': '41.0'}
+{'mac': '58:97:1E:57:6A:7E', 'minSig': '63', 'minQual': '41', 'maxQual': '41', 'maxSig': '71', 'avgSig': '67.89', 'qualAvg': '41.0'}
+{'mac': '58:97:1E:56:A9:DF', 'minSig': '68', 'minQual': '36', 'maxQual': '36', 'maxSig': '79', 'avgSig': '74.44', 'qualAvg': '36.0'}
+{'mac': '58:97:1E:56:A9:DD', 'minSig': '68', 'minQual': '35', 'maxQual': '35', 'maxSig': '79', 'avgSig': '74.44', 'qualAvg': '35.0'}
+{'mac': '58:97:1E:56:A9:DE', 'minSig': '68', 'minQual': '36', 'maxQual': '36', 'maxSig': '78', 'avgSig': '74.22', 'qualAvg': '36.0'}
+{'mac': '1C:E6:C7:F0:C3:32', 'minSig': '74', 'minQual': '36', 'maxQual': '36', 'maxSig': '74', 'avgSig': '74.0', 'qualAvg': '36.0'}
+{'mac': '1C:E6:C7:F0:FD:F0', 'minSig': '67', 'minQual': '39', 'maxQual': '39', 'maxSig': '71', 'avgSig': '69.0', 'qualAvg': '39.0'}
+{'mac': '1C:E6:C7:F0:FD:F2', 'minSig': '68', 'minQual': '38', 'maxQual': '38', 'maxSig': '72', 'avgSig': '69.14', 'qualAvg': '38.0'}
+{'mac': '1C:E6:C7:F0:FD:F1', 'minSig': '71', 'minQual': '39', 'maxQual': '39', 'maxSig': '71', 'avgSig': '71.0', 'qualAvg': '39.0'}
+{'mac': '30:E1:71:A0:9B:4D', 'minSig': '75', 'minQual': '34', 'maxQual': '34', 'maxSig': '81', 'avgSig': '77.0', 'qualAvg': '34.0'}
+{'mac': '58:97:1E:56:A9:D2', 'minSig': '65', 'minQual': '42', 'maxQual': '42', 'maxSig': '68', 'avgSig': '66.43', 'qualAvg': '42.0'}
+{'mac': '1C:E6:C7:F0:EB:A1', 'minSig': '72', 'minQual': '37', 'maxQual': '37', 'maxSig': '73', 'avgSig': '72.67', 'qualAvg': '37.0'}
+{'mac': '58:97:1E:57:0B:3D', 'minSig': '87', 'minQual': '23', 'maxQual': '23', 'maxSig': '87', 'avgSig': '87.0', 'qualAvg': '23.0'}
+{'mac': '58:97:1E:57:0B:3E', 'minSig': '87', 'minQual': '23', 'maxQual': '23', 'maxSig': '89', 'avgSig': '87.86', 'qualAvg': '23.0'}
+{'mac': '00:78:88:CD:06:6D', 'minSig': '89', 'minQual': '21', 'maxQual': '21', 'maxSig': '89', 'avgSig': '89.0', 'qualAvg': '21.0'}
+{'mac': '00:78:88:CD:06:6E', 'minSig': '90', 'minQual': '20', 'maxQual': '20', 'maxSig': '90', 'avgSig': '90.0', 'qualAvg': '20.0'}
+{'mac': 'FA:DA:0C:7E:CD:D1', 'minSig': '81', 'minQual': '29', 'maxQual': '29', 'maxSig': '81', 'avgSig': '81.0', 'qualAvg': '29.0'}
+{'mac': '1C:E6:C7:F0:C3:31', 'minSig': '78', 'minQual': '32', 'maxQual': '32', 'maxSig': '78', 'avgSig': '78.0', 'qualAvg': '32.0'}
+]
+K/SECONDARY/967/541
+[
+]
+L/SECONDARY/865/591
+[
+]
+M/SECONDARY/764/487
+[
+]
+N/Compter Lab/101 front/SECONDARY/967/260
+[
+]
+O/SECONDARY/850/145
+[
+]
+P/SECONDARY/764/280
+[
+]
+R/SECONDARY/452/381
+[
+]
+S/SECONDARY/236/378
+[
+]
+Q/SECONDARY/666/379
+[
+]
+END NODES
+A B 60.0
+A J 35.0
+A N 36.0
+B M 32.0
+B P 36.0
+B Q 30.0
+C R 30.0
+C Q 40.0
+D R 40.0
+D S 25.0
+E S 20.0
+F O 20.0
+F P 36.0
+G O 40.0
+H K 11.0
+H L 30.0
+I L 30.0
+I M 24.0
+J K 10.0
+END EDGES
+EGRFloormap1.png
+END FLOOR DATA

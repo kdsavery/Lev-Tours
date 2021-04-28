@@ -1,0 +1,19 @@
+Single Floor Tour
+HH
+W
+GG
+U
+KK
+HH
+END TOUR
+Multi Floor Tour
+A
+SS
+HH
+END TOUR
+TEST
+A
+B
+Q
+END TOUR
+END TOURS
